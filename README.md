@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frontend development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yasinarafat4870](https://github.com/yasinarafat4870)
+- 👨‍💻 All of my projects are available at [https://github.com/yasinn-arafat](https://github.com/yasinn-arafat)
 
 - 💬 Ask me about **HTML, CSS**
 
