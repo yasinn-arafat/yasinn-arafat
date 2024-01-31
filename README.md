@@ -7,12 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yasinn-arafat](https://github.com/yasinn-arafat)
 
-- 💬 Ask me about **HTML, CSS,**
+- 💬 Ask me about **HTML, CSS, JS, React, Tailwind CSS, Bootstrap,**
 
 - 📫 How to reach me **yasinarafat4870@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/yasin-arafat48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasin-arafat48" height="30" width="40" /></a>
 <a href="https://fb.com/yasinarafat4048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasinarafat4048" height="30" width="40" /></a>
 <a href="https://instagram.com/yasinnn_arafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasinnn_arafat" height="30" width="40" /></a>
 </p>
@@ -23,3 +24,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasinn-arafat&show_icons=true&locale=en&layout=compact" alt="yasinn-arafat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasinn-arafat&" alt="yasinn-arafat" /></p>
+
