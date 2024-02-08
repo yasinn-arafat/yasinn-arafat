@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasin Arafat</h1>
-<h3 align="center">I am learning Frontend developing with React</h3>
+<h3 align="center">I am a Front-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinn-arafat&label=Profile%20views&color=0e75b6&style=flat" alt="yasinn-arafat" /> </p>
 
